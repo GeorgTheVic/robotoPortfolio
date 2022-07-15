@@ -493,6 +493,9 @@ a {
   line-height: 160%;
   color: var(--light-color);
 }
+.nav__link:hover {
+  color: var(--accent-color);
+}
 @media (max-width: 992px) {
   .nav__link {
     position: fixed;
