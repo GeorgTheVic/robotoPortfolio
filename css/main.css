@@ -212,6 +212,10 @@ a {
   background-color: var(--accent-color);
 }
 
+.btn:hover {
+  opacity: .8;
+}
+
 .btn--dark {
   background-color: var(--dark-color);
 }
