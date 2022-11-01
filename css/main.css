@@ -448,7 +448,7 @@ a {
     height: 44px;
     opacity: 0.4;
     font-size: 0;
-    background-image: url("img/phone.svg");
+    background-image: url("../img/phone.svg");
     background-position: center;
     background-size: 24px 24px;
     background-repeat: no-repeat;
